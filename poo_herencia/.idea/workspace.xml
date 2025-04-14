@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fcb8e7f9-68cf-428a-9de7-fbf02b924c98" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/poo_herencia.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/poo_sobrecarga/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/poo_sobrecarga/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/poo_sobrecarga/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/poo_sobrecarga/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/poo_sobrecarga/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/poo_sobrecarga/poo_sobrecarga.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/poo_sobrecarga/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/poo_sobrecarga/src/org/rsalva/poosobrecarga/Calculadora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/poo_sobrecarga/src/org/rsalva/poosobrecarga/EjemploSorecarga.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Presupuestos/gerencia/condif/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Presupuestos/gerencia/condif/Empleado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Presupuestos/gerencia/condif/Gerente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Presupuestos/gerencia/condif/Persona.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Presupuestos/gerencia/ejemplo/EjemploSistema.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/org/rsalva/ejemplo/ejemploHerencia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/org/rsalva/ejemplo/ejemploHerenciaConstructores.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/org/rsalva/ejemplo/ejemploHerenciaToString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/rsalva/pooherencia/Alumno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/rsalva/pooherencia/AlumnoInternacional.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/rsalva/pooherencia/AlumnoIternacionalDiplomatico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/rsalva/pooherencia/Persona.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/rsalva/pooherencia/Profesor.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2sibHn3pEEs5ONf7Gfy1SVQ4QDV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.EjemploSistema.executor": "Run",
+    "Application.ejemploHerencia.executor": "Run",
+    "Application.ejemploHerenciaConstructores.executor": "Run",
+    "Application.ejemploHerenciaToString.executor": "Run",
+    "Application.org.org.rsalva.ejemplo.ejemploHerencia.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "D:/poo_herencia/src/Main.java"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.org.rsalva.ejemplo" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.EjemploSistema">
+    <configuration name="EjemploSistema" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Presupuestos.gerencia.ejemplo.EjemploSistema" />
+      <module name="poo_herencia" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Presupuestos.gerencia.ejemplo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ejemploHerencia" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.rsalva.pooherencia.ejemploHerencia" />
+      <module name="poo_herencia" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.rsalva.pooherencia.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ejemploHerenciaConstructores" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.org.rsalva.ejemplo.ejemploHerenciaConstructores" />
+      <module name="poo_herencia" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.org.rsalva.ejemplo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ejemploHerenciaToString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.org.rsalva.ejemplo.ejemploHerenciaToString" />
+      <module name="poo_herencia" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.org.rsalva.ejemplo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="org.org.rsalva.ejemplo.ejemploHerencia" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.org.rsalva.ejemplo.ejemploHerencia" />
+      <module name="poo_herencia" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.org.rsalva.ejemplo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.EjemploSistema" />
+        <item itemvalue="Application.ejemploHerenciaToString" />
+        <item itemvalue="Application.ejemploHerenciaConstructores" />
+        <item itemvalue="Application.org.org.rsalva.ejemplo.ejemploHerencia" />
+        <item itemvalue="Application.ejemploHerencia" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fcb8e7f9-68cf-428a-9de7-fbf02b924c98" name="Changes" comment="" />
+      <created>1738941257552</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1738941257552</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
