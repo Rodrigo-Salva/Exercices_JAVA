@@ -1,47 +1,48 @@
-# 💻 Proyectos JAVA de Rodrigo-Salva
+# 💻 JAVA Projects
 
-Bienvenido/a a mi repositorio de **Proyectos en Java**, donde encontrarás ejemplos prácticos y organizados de conceptos fundamentales y avanzados de la Programación Orientada a Objetos (POO), estructuras de datos, manejo de excepciones, y más.
-
----
-
-## 📂 Índice de Carpetas y Contenidos
-
-### 🔹 Fundamentos de Java y POO
-- [`POO JAVA`](./POO%20JAVA): Introducción a la Programación Orientada a Objetos.
-- [`POO PARA ESTUDIANTES`](./POO%20PARA%20ESTUDIANTES): Ejercicios adaptados para estudiantes que inician en POO.
-- [`POO`](./POO): Conceptos básicos de clases, objetos, métodos y atributos.
-- [`POO_`](./POO_): Continuación y mejoras de ejercicios básicos de POO.
-
-### 🔹 Temas Avanzados de POO
-- [`poo_herencia`](./poo_herencia): Ejemplos de herencia entre clases.
-- [`poo_interfaces`](./poo_interfaces): Implementación de interfaces.
-- [`poo_interfaces_repositorio`](./poo_interfaces_repositorio): Patrón repositorio usando interfaces.
-- [`poo_excepciones`](./poo_excepciones): Manejo de excepciones en Java.
-- [`poo-clases-abstractas`](./poo-clases-abstractas): Uso de clases abstractas y su aplicación.
-
-### 🔹 Estructuras de Datos y Colecciones
-- [`ArrayList`](./Arraylist): Uso de listas dinámicas en Java.
-- [`colecciones`](./colecciones): Ejemplos con diferentes tipos de colecciones Java (List, Set, Map, etc.).
-
-### 🔹 Organización de Código
-- [`paquetes`](./paquetes): Organización de código fuente con paquetes.
+Welcome to my **Java Projects** repository, where you'll find practical and organized examples of fundamental and advanced concepts in Object-Oriented Programming (OOP), data structures, exception handling, and more.
 
 ---
 
-## 📘 Notas
-Cada carpeta incluye ejemplos, buenas prácticas, comentarios en el código y una estructura pensada para facilitar el aprendizaje progresivo.
+## 📂 Folder Index and Contents
+
+### 🔹 Java and OOP Fundamentals
+- [`POO JAVA`](./POO%20JAVA): Introduction to Object-Oriented Programming.
+- [`POO PARA ESTUDIANTES`](./POO%20PARA%20ESTUDIANTES): Exercises adapted for students starting with OOP.
+- [`POO`](./POO): Basic concepts of classes, objects, methods, and attributes.
+- [`POO_`](./POO_): Continuation and improvements of basic OOP exercises.
+
+### 🔹 Advanced OOP Topics
+- [`poo_herencia`](./poo_herencia): Examples of class inheritance.
+- [`poo_interfaces`](./poo_interfaces): Implementation of interfaces.
+- [`poo_interfaces_repositorio`](./poo_interfaces_repositorio): Repository pattern using interfaces.
+- [`poo_excepciones`](./poo_excepciones): Exception handling in Java.
+- [`poo-clases-abstractas`](./poo-clases-abstractas): Use of abstract classes and their applications.
+
+### 🔹 Data Structures and Collections
+- [`ArrayList`](./Arraylist): Use of dynamic lists in Java.
+- [`colecciones`](./colecciones): Examples with different Java collections (List, Set, Map, etc.).
+
+### 🔹 Code Organization
+- [`paquetes`](./paquetes): Source code organization with packages.
 
 ---
 
-## 🚀 Objetivo del Repositorio
-El objetivo de este repositorio es servir como una **guía práctica** y **referencia personal** para aprender y reforzar conceptos clave en Java, desde nivel principiante hasta intermedio-avanzado.
+## 📘 Notes
+Each folder includes examples, best practices, in-code comments, and a structure designed to make progressive learning easier.
 
 ---
 
-## 📩 Contacto
-¿Tienes sugerencias o quieres colaborar?  
-No dudes en escribirme: **rodrigosaccatoma1234@gmail.com**
+## 🚀 Repository Goal
+The goal of this repository is to serve as a **practical guide** and **personal reference** to learn and reinforce key concepts in Java, from beginner to intermediate-advanced level.
 
 ---
 
-> _“El conocimiento crece cuando se comparte”_ – ¡Gracias por visitar mi repositorio!
+## 📩 Contact
+Have suggestions or want to collaborate?  
+Feel free to reach out: **rodrigosaccatoma1234@gmail.com**
+
+---
+
+> _"Knowledge grows when it's shared."_ – Thank you for visiting my repository!
+
